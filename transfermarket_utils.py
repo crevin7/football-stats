@@ -65,7 +65,6 @@ def is_stats_table(soup):
         {"class": "zentriert", "text": "Venue"},
         {"class": "zentriert", "text": "Result"},
         {"class": "zentriert", "text": "Pos."},
-        # Add additional entries based on their structure
     ]
 
 
